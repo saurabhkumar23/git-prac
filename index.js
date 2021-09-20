@@ -1,2 +1,1 @@
-let pizza = true
-let burger = true
+let a = 10
