@@ -4,4 +4,3 @@ let c = 30
 
 let d = 40
 let e = 60
-let f = 100
